@@ -1,0 +1,6 @@
+pandas
+textblob
+polars
+duckdb
+pyarrow
+dask

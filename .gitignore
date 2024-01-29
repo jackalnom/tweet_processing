@@ -1,0 +1,9 @@
+/.DS_Store
+/.venv
+/all-data
+/combined.parquet
+/combined_sentiment.parquet
+/sentiment_origin_country_summary.csv
+/sentiment_summary.csv
+/tweet.parquet
+/tweets
